@@ -1,0 +1,116 @@
+.menu{
+    border: 1px solid white;
+    height: 100px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.sec{
+    border: 2px solid white;
+    height: 30px;
+    width: 320px;
+    margin-left: 1450px;
+
+}
+.gmail{
+    border: 1px solid white;
+    height: 10px;
+    width: 50px;
+    padding:6px 16px 6px 5px;
+    display:inline-block;
+    color: black;
+
+}
+.imagenes{
+    border: 1px solid white;
+    height: 10px;
+    width: 50px;
+    padding: 6px 16px 6px 5px;
+    display: inline-block;
+}
+.apps{
+    border: 1px solid white;
+    height: 10px;
+    width: 50px;
+    padding:6px 16px 6px 5px;
+    display:inline-block;
+}
+.cuadros{
+    width: 23px;
+    padding-left: 25px;
+
+}
+.perfil{
+    border: 1px solid white;
+    height: 10px;
+    width: 50px;
+    padding:6px 16px 6px 5px;
+    display:inline-block;
+}
+.mifoto{
+border-radius: 50%;
+height: 55px;
+width: 55px;
+}
+.contenido{
+    border: 2px solid white;
+    height: 980px;
+    width: 100%;
+}
+.google{
+    width: 500px;
+    padding-top:200px;
+    display:inline-block;
+}
+
+.buscador{
+    border: 1px solid #c5c5c5;
+    border-radius: 24px;
+    font: 16px arial,sans-serif;
+    height: 45px;
+    width: 700px;
+    background: url("micro.png") no-repeat scroll 0 0 transparent;
+    background-size: 20px;
+    background-position: 660px;
+    margin: 0 auto;
+    padding-left: 12px;
+    padding-top: 6px;
+    box-shadow: 0px 1px rgb(197, 196, 196);
+    transition: all .5s;
+
+}
+.microfono{
+    width: 20px;
+    margin: 0%;
+    padding: 0%;
+}
+.buscar{
+    border-radius: 5px;
+    color: #5F6368;
+    background-color: #f7f7f7d7;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    width: 200px;
+    height: 45px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 500px;
+    margin-right: 20px;
+    display:inline-block;
+}
+.suerte{
+    border-radius: 5px;
+    color: #5F6368;
+    background-color: #f7f7f7d7;;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    width: 200px;
+    height: 45px;
+    text-align: center;
+    margin-top: 30px;
+    margin-right : 500px;
+    display:inline-block;
+
+}

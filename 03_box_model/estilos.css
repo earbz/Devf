@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+.caja{
+    border: 2px solid;
+    height:  50px;
+    /* margin: 100px; Para margen vertical y horizontal*/ 
+    /* margin: 50px 100px 20px 10px; valores por lados empezando de top */
+    /* El primer valor es horizontal y 2do vertical */
+    margin-bottom: 50px;
+}
+.caja2{
+    border: 2px solid red;
+    height: 50px;
+    padding: 50px 100px 20px 10px;
+}
+.palabra{
+    display: inline-block;
+    border: 2px solid;
+    height: 50px;
+    width: 200px;
+}

@@ -1,0 +1,57 @@
+.bandera{
+    width: 60%;
+    height: 600px;
+    background-color: rgb(10, 10, 112);
+}
+.cajonuno{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    width: 30%;
+
+}
+.uno{
+    width: 30%;
+    height: 200px;
+    background-color:white;
+    flex-direction: column;
+}
+.dos{
+    width: 30%;
+    height: 200px;
+    background-color: white;
+}
+.rojo{
+    width: 90%;
+    height: 90%;
+    background-color: red;
+}
+.cajondos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    width: 60%;
+}
+.rojodos{
+    width: 90%;
+    height: 90%;
+    background-color: red;
+
+}
+
+.tres{
+    width: 30%;
+    height: 200px;
+    background-color:white;
+    flex-direction: column;
+
+}
+.cuatro{
+    width: 30%;
+    height: 200px;
+    background-color:white;
+    flex-direction: column;
+  
+}

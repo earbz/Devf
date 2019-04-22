@@ -1,0 +1,13 @@
+*{background: pink;}
+h1{font-size: 100px;  
+    color: white; 
+    font-family:Arial, Helvetica, sans-serif}
+.img-big{
+    width: 500px;
+    border-radius: 50%; /**etiqueta para bordear esquina del objeto**/
+}
+
+.img-small{
+    width: 250px;
+    border-radius: 30px;
+}

@@ -1,0 +1,42 @@
+.menuapps{
+    background: #ddd1d1;
+    margin: 0;
+    max-height: 360px;
+    height: 496px;
+    padding: 28px;
+    padding-right: 27px;
+    text-align: left;
+    white-space: normal;
+    width: 265px;
+}
+.gp{
+    background-position: 0 -414px;
+    background-size: 64px 2410px;
+    display: inline-block;
+    vertical-align: top;
+    height: 64px;
+    width: 64px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    margin: 8px 2px;
+    text-align: center;
+    left: 0px;
+    top: -414px;
+    display:inline-block;
+}
+.yt1{
+    background-position: 0 -552px;
+    background-size: 64px 2410px;
+    display: inline-block;
+    vertical-align: top;
+    height: 64px;
+    width: 64px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    margin: 8px 2px;
+    text-align: center;
+    left: 0px;
+    top: -552px;
+    display:inline-block;
+
+}
